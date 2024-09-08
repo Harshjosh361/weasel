@@ -24,9 +24,9 @@ This is an automatic license checker aimed at ensuring compliance with
 the Apache Software Foundation processes. It does not ensure compliance,
 but it catches many common errors automatically.
 
-To get started quickly, install `weasel` with `go get`:
+To get started quickly, install `weasel` with `go install`:
 
-    go get github.com/comcast/weasel
+    go install github.com/comcast/weasel
 
 Then, `cd` into your project's directory and run:
 
